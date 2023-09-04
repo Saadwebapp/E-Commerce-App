@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "79759820744",
+    "project_id": "e-commerceappinternship",
+    "storage_bucket": "e-commerceappinternship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79759820744:android:060a9acac50463a8d862fd",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app_internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79759820744-1j86t9vng39bj7vbtvdiu138crup2j3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6f0LOaTy9KEsMGrxcKwSyFkqWQ77Ahnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79759820744-1j86t9vng39bj7vbtvdiu138crup2j3r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79759820744-ib2799v4tgqvsl2dva3og8mao0q24qge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAppInternship"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79759820744:android:1421c97370bf8414d862fd",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79759820744-1j86t9vng39bj7vbtvdiu138crup2j3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6f0LOaTy9KEsMGrxcKwSyFkqWQ77Ahnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79759820744-1j86t9vng39bj7vbtvdiu138crup2j3r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79759820744-ib2799v4tgqvsl2dva3og8mao0q24qge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAppInternship"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
